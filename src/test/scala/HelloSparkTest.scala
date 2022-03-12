@@ -1,4 +1,4 @@
-package com.latentview.interview
+package com.tailwyndz.interview
 
 import org.apache.spark.sql.SparkSession
 import org.scalatest._
